@@ -3,5 +3,5 @@ dash-bootstrap-components
 pandas
 jobspy
 openpyxl
-gunicorn app:server
+gunicorn
 
